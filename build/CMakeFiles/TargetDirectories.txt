@@ -1,0 +1,4 @@
+C:/SP_kursova/calculator/build/CMakeFiles/calculator.dir
+C:/SP_kursova/calculator/build/CMakeFiles/calculator_program.dir
+C:/SP_kursova/calculator/build/CMakeFiles/edit_cache.dir
+C:/SP_kursova/calculator/build/CMakeFiles/rebuild_cache.dir
